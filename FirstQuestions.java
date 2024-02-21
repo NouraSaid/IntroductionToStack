@@ -6,7 +6,7 @@ public class FirstQuestions {
         Stack<Integer> stack = new Stack<>();
         System.out.println(stack.empty());
 
-        //*stack.push(1);
+        stack.push(1);
         stack.push(2);
         stack.push(3);
         stack.push(4);
